@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Rafa</h1>
-<h3 align="center">Estudiante de Aplicaciones Multiplataforma</h3>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 - 👨‍💻 Puedes ver todos mis proyectos en [rafagortega.com](rafagortega.com)
 
